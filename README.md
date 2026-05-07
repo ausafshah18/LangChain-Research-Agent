@@ -84,5 +84,3 @@ Open the respective `.ipynb` files in Jupyter Notebook or VS Code to explore the
 ## 🤝 Contributing
 Feel free to fork this project, submit issues, or create pull requests. Contributions to improve retrieval accuracy or add more agent tools are welcome!
 
-## 📜 License
-This project is licensed under the MIT License.
